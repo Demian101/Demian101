@@ -6,6 +6,12 @@
   - [my twitter](https://twitter.com/demian70)
   - Wechat: soda1543
 
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sodaoo&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&disable_animations=true"/>
+  
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodaoo&layout=compact&langs_count=4&hide=javascript,html,css"/>
+</p>
+
 <!---
 Demian101/Demian101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
