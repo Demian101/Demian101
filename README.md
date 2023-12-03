@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust & CSAPP ...
 - 💞️ I’m looking to collaborate on fancy things!
 - 📫 How to reach me :
-  - [my twitter](https://twitter.com/demian70)
+  - [twitter](https://twitter.com/demian70)
   - Wechat: soda1543
 
 <p>
